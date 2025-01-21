@@ -11,7 +11,7 @@
   "scripts": {
     "start": "eleventy --serve",
     "prebuild": "del-cli ./dist",
-    "build": "eleventy"
+    "build": "npx @11ty/eleventy"
 
   },
   "author": "",
