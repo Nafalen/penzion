@@ -198,6 +198,7 @@ section {
 	display: grid;
 	grid-template-columns: repeat(3, 1fr);
 	gap: var(--spacer-bigger);
+
 }
 
 .about__content {
@@ -457,3 +458,4 @@ section {
 .footer__title {
 	color: var(--grey-700);
 }
+
